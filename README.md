@@ -111,17 +111,6 @@ Meta Dataset is a **custom dataset** created to train the fully supervised teach
 
 - Semi-supervised: additional unlabeled images can be placed in `train_unlabeled/`
 
-### 🏙️ ADE20K Dataset
-    Datasets/ADE20K/ADEChallengeData2016/
-    ├── images/
-    │   ├── training/ (.jpg)
-    │   └── validation/ (.jpg)
-    └── annotations/
-        ├── training/ (.png)
-        └── validation/ (.png)
-
-- Download: https://groups.csail.mit.edu/vision/datasets/ADE20K/
-
 ---
 
 ## 4️⃣ Installation
