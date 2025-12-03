@@ -341,10 +341,17 @@ segmenter-meta/
 ## 🔟 Author & Acknowledgments
 
 **Author:**  
-Bijoya Bhattacharjee  
-Ph.D. Student — Electrical & Computer Engineering, UNLV
+**Bijoya Bhattacharjee**  
+Ph.D. Candidate, Department of Electrical and Computer Engineering, University of Nevada, Las Vegas (UNLV)
 
-**Research Topics:**  
-- Wildfire Detection & Segmentation  
-- Vision Transformers & Semi-Supervised Learning  
--
+**Research Interests:**  
+- Advanced Computer Vision techniques for wildfire detection and monitoring  
+- Semantic segmentation using Vision Transformers (ViT)  
+- Semi-supervised and self-supervised learning for remote sensing applications  
+- Multimodal and multispectral data integration for environmental monitoring  
+
+**Acknowledgments:**  
+This work builds upon the **Segmenter framework** (Strudel et al., 2021) and leverages open-source tools including **timm** and **MMSegmentation**. The semi-supervised teacher-student setup enables the model to learn from unlabeled UAV imagery, reducing the need for extensive manual annotations while maintaining high segmentation accuracy.  
+
+> “By harnessing both labeled and unlabeled data, Vision Transformers can capture richer spatial features for accurate wildfire segmentation, pushing the boundaries of automated environmental monitoring.”
+
