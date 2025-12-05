@@ -267,11 +267,12 @@ python3 inference.py \
 This will generate the following plots in your specified output directory:
 - mIoU_vs_labeled_ratio.png
 - loss_vs_labeled_ratio.png
+We also generate a Feature similarty (internal transformer embeddings) vs labeled dataset ratio plot to quantify how the model's inernal representation changes with increase in labeled training data. 
 
 **Example Plots:**
 
-![Mean IoU vs Labeled Dataset Ratio](./mIoU_vs_labeled_ratio.png)  
-![Training Loss vs Labeled Dataset Ratio](./loss_vs_labeled_ratio.png)
+![Loss vs Labeled Dataset Ratio](./loss_vs_labeled_ratio.png)  
+![Feature similarity vs Labeled Dataset Ratio](./feature_similarity_trend.png)
 
 ---
 
