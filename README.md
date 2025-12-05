@@ -272,7 +272,7 @@ We also generate a Feature similarty (internal transformer embeddings) vs labele
 **Example Plots:**
 
 <p align="center">
-  <img src="./loss_vs_labeled_dataset_ratio.png" alt="Loss vs Labeled Dataset Ratio" width="450">
+  <img src="./loss_vs_labeled_ratio.png" alt="Loss vs Labeled Dataset Ratio" width="450">
 </p>
 
 <p align="center">
