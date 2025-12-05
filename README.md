@@ -264,10 +264,10 @@ python3 inference.py \
       --models-root /home/AD.UNLV.EDU/bhattb3/segmenter_SEMI1/segm/ \
       --output-dir /home/AD.UNLV.EDU/bhattb3/segmenter_SEMI1/segm/plots/
 
-This will generate the following plots in your specified output directory:
+This will generate the following plots in your specified output directory:  
 - mIoU_vs_labeled_ratio.png
-- loss_vs_labeled_ratio.png
-We also generate a Feature similarty (internal transformer embeddings) vs labeled dataset ratio plot to quantify how the model's inernal representation changes with increase in labeled training data. 
+- loss_vs_labeled_ratio.png  
+We also generate a Feature similarity (internal transformer embeddings) vs labeled dataset ratio plot to quantify how the model's internal representation changes with increase in labeled training data.
 
 **Example Plots:**
 
